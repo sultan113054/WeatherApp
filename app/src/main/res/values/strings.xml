@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="succeen_screen">Success Screen</string>
+    <string name="error_screen">Error Screen</string>
+    <string name="instruction_text">Search here to get location weather details</string>
+    <string name="button_text">Submit</string>
+    <string name="search_hint">search location</string>
+
+</resources>

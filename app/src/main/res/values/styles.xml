@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:tint">@color/black</item>
+        <item name="android:background">@drawable/background</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+
+    <style name="PrimaryText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="SecondaryText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/colorOnSecondary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+</resources>
